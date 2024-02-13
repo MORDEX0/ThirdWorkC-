@@ -1,0 +1,5 @@
+﻿  third.cpp
+C:\Users\24070\source\repos\third\third\third.cpp(30,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\24070\source\repos\third\third\third.cpp(32,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\24070\source\repos\third\third\third.cpp(34,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  third.vcxproj -> C:\Users\24070\source\repos\third\x64\Debug\third.exe
